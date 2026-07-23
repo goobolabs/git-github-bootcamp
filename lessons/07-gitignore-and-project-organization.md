@@ -189,7 +189,7 @@ cd weather-app
 ## Usage
 
 Open `index.html` in your browser and type a city name.
-```
+``
 
 > 💡 A clear README is what separates a project that looks professional from one that looks abandoned. It's often the **first thing** an employer reads on your GitHub.
 
