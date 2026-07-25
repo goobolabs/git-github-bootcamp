@@ -1,0 +1,1 @@
+# kani waa my README ha ku qaldamin please hadii kale waa isku qaldameynaa wllhi😂

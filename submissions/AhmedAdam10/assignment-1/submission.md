@@ -1,8 +1,8 @@
+# Assignment 1 — Git Basics
 
-- **Name:** Sakariye jamac 
-- **GitHub username:** sakijamac4-lab
-- **Repository URL:** https://github.com/sakijamac4-lab/Exercise.git
-
+- **Name:** Ahmed Adam Mohamed
+- **GitHub username:** AhmedAdam10
+- **Repository URL:** https://github.com/AhmedAdam10/git-github-practice.git
 
 ## Confirmation
 
