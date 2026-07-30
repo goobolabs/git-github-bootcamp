@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    
+    color: #333;
+    line-height: 1.6;
+    font-size:16px;
+    
+   
+}
+*{
+margin: 60px;
+padding:60px;
+color:red;
+align-items: center;
+justify-content: center;
+
+
+}
+
+
+
