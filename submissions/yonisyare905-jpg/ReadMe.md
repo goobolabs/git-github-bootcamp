@@ -1,1 +1,1 @@
-# This is my Assignment 1 for the git and github bootcamp
+# this folder is the folder i use to submit my assignments to complete git and github bootcamp 

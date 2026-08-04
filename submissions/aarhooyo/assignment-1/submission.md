@@ -1,8 +1,8 @@
 # Assignment 1 — Git Basics
 
-- **Name:** Yousuf Hassan Osman 
-- **GitHub username:** Yousuf-Hassan
-- **Repository URL:** https://github.com/Yousuf-Hassan/git-github-practice
+- **Name:** Abdulkadir Mohumed Hussein
+- **GitHub username:** aarhooyo
+- **Repository URL:** https://github.com/aarhooyo/website-with-html-and-css
 
 ## Confirmation
 

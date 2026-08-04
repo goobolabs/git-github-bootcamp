@@ -1,0 +1,1 @@
+# Kani waa folderka shuceyb **fadlan ha isku taaban** udaa siduu yahay mahadsanid
