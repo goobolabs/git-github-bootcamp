@@ -8,7 +8,7 @@
 
 ## Confirmation
 
-- [ x] Profile photo and one-sentence bio are set (Edit profile)
+- [x] Profile photo and one-sentence bio are set (Edit profile)
 - [x] At least one website or social link is on my profile
 - [x] At least 2 repos are pinned; `goobolabs/git-github-bootcamp` is one of them
 - [x] Public profile README repo exists (`username/username`) and shows on my profile
