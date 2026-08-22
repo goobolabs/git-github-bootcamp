@@ -2,7 +2,7 @@
 
 - **Name:** Abdulkadir Mohumed Hussein
 - **GitHub username:** aarhooyo
-- **Repository URL:** https://github.com/aarhooyo/portfolio-website/tree/revert-3-index
+- **Repository URL:** https://github.com/aarhooyo/simple-portfolio-website/tree/index.html
 
 ## Confirmation
 
